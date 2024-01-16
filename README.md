@@ -1,5 +1,19 @@
 ## GIT 블로그 만들기
 
+## 루비 명령어 모음
+1. Jekyll 다운 받기
+gem install bundler 
+gem install jekyll
+
+2. 틀생성
+jekyll new ./
+
+3. 번들 설치
+bundle install
+4. 로컬서버 실행
+boundle exec jekyll serve 
+
+
 ## skills
 
 `jekyll`
@@ -24,4 +38,5 @@ GitHub Pages와의 통합: GitHub Pages 서비스와 직접 호환되어, 무료
 - 동적 콘텐츠 제한: Jekyll은 주로 정적 콘텐츠 생성에 초점을 맞추고 있어, 실시간 사용자 인터랙션을 필요로 하는 기능 구현에는 제한적일 수 있습니다.
 - 초보자의 진입 장벽: Ruby 설치나 명령줄 사용에 익숙하지 않은 사용자에게는 초기 설정이 다소 복잡하게 느껴질 수 있습니다.
 Jekyll은 특히 개발자, 기술 작가, 블로거에게 인기 있는 도구로, 간편한 웹사이트 및 블로그 생성을 위한 효율적인 해결책을 제공합니다.
+
 
