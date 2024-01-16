@@ -10,8 +10,9 @@ jekyll new ./
 
 3. 번들 설치
 bundle install
+
 4. 로컬서버 실행
-boundle exec jekyll serve 
+bundle exec jekyll serve 
 
 
 ## skills
