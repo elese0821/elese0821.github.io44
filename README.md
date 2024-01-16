@@ -1,1 +1,1 @@
-# elese0821.github.io
+# GIT 블로그 만들기
